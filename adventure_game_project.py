@@ -1,3 +1,5 @@
+#updating to test automated push to jenkins
+
 import random
 enemy = ["Jason", "Michael", "Leatherface"]
 intro = ["He will cut you.", "You can run, but he can walk faster", "He thinks you have nice skin, he wants to wear it."]
